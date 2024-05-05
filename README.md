@@ -23,6 +23,8 @@ Crie uma cena que represente um assistente de IA versátil e poderoso. Mostre um
 
 ## 🚀 Resultados
 ### Desbrave um Novo Mundo com Assistentes de IA Versáteis
+![_786f4042-aa41-4731-b985-bc9319b55397](https://github.com/ogilbertoalves/natty-or-not/assets/67810094/ae688526-fde5-4166-9eb1-91aa1f7a0762)
+
 Você já imaginou ter um assistente pessoal brilhante, ágil e incansável sempre ao seu lado? Alguém que pode ajudá-lo com praticamente qualquer tarefa, desde escrever um discurso emocionante até analisar dados complexos? Bem, esse sonho agora é realidade com os Modelos de Linguagem de Grande Porte (LLMs).
 
 Esses assistentes de IA de ponta representam um avanço tecnológico revolucionário, capazes de compreender e gerar linguagem natural com fluência inigualável. Eles podem se tornar seus melhores companheiros, capacitando você a alcançar novos patamares de produtividade e criatividade.
