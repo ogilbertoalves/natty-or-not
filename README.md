@@ -1,51 +1,39 @@
-# Natural ou Fake Natty? Como Vencer na Era das IAs Generativas
-
-## 🚀 Introdução
-
-> Woooow! Look at this 👀
-
-Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisiculturismo, este Lab da DIO te convida a conhecer o mundo das IAs Generativas, explorando o potencial dessas tendências tecnológicas incríveis!
-
-## 🎯 Bora Pro Desafio!? Você Já Venceu 💪🤓
-
-### Objetivos
-
-1. **Explorar IAs Generativas**: Utilize essas tecnologias para criar conteúdos que sejam o mais realista possível. Seja criativo! Você pode produzir imagens, textos, áudios, vídeos ou combinações de tudo isso!
-1. **Potfólio de Projetos**:
-    1. Faça o "fork" deste repositório, criando uma cópia em seu GitHub pessoal;
-    2. Edite seu README com os detalhes do seu projeto, siga nosso [Template](#template) (é só copiar, colar e preencher);
-    3. Submeta o link do seu repositório na plataforma da DIO. Pronto, você acabou de fortalecer seu portfólio de projetos nos perfis do GitHub e DIO 🚀
-1. **Efeito de Rede**: Compartilhe seus resultados nas redes sociais com a hashtag **#LabDIONattyOrNot**. Não esqueça de nos marcar: [DIO](https://www.linkedin.com/school/dio-makethechange) e [falvojr](https://www.linkedin.com/in/falvojr).
-
-### Template
-
-```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+# Artigo sobre Inteligência Artificial
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+O desafio foi criar um artigo sobre Inteligência Artificial, utilizando IAs para parecerem o mais natural possível.
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
-
+Foi Utilizado o Claude 3 Sonnet para criação do artigo, ChatGPT para criação do prompt da imagem e o Copilot com DALL-E para criação da imagem.
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+### Prompt para criação do Artigo
+Você é um famoso copywriter com mais de 30 anos de experiência. Descreva em formato de artigo persuasivo e criativo, qual o básico um leigo deveria aprender para conseguir utilizar as LLMs em seu dia-a-dia para corroborar com suas tarefas cotidianas.
+
+### Prompt para criação da imagem
+Crie uma cena que represente um assistente de IA versátil e poderoso. Mostre uma figura central, como um avatar humanoide ou uma forma abstrata, irradiando luz para simbolizar energia e conhecimento.
+
+**Elementos a incluir:**
+- Um livro aberto para representar escrita
+- Ícones de dados para análise
+- Símbolos de programação
+- Globos ou equações matemáticas para conhecimento
+- Balões de fala ou linhas conectando a figura central a outras pessoas, para simbolizar comunicação fluida
+
+**Tema geral:** Inovação, produtividade, criatividade e aprendizado sem limites. A imagem deve transmitir uma sensação de avanço tecnológico e um mundo de possibilidades.
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+### Desbrave um Novo Mundo com Assistentes de IA Versáteis
+Você já imaginou ter um assistente pessoal brilhante, ágil e incansável sempre ao seu lado? Alguém que pode ajudá-lo com praticamente qualquer tarefa, desde escrever um discurso emocionante até analisar dados complexos? Bem, esse sonho agora é realidade com os Modelos de Linguagem de Grande Porte (LLMs).
+
+Esses assistentes de IA de ponta representam um avanço tecnológico revolucionário, capazes de compreender e gerar linguagem natural com fluência inigualável. Eles podem se tornar seus melhores companheiros, capacitando você a alcançar novos patamares de produtividade e criatividade.
+
+Imagine as possibilidades ilimitadas que se abrem quando você tem uma fonte inesgotável de conhecimento e habilidades à sua disposição. Quer redigir um romance cativante? O LLM pode fornecer ideias envolventes e estruturar uma trama cativante. Precisa criar uma apresentação impactante para fechar aquele grande negócio? Seu assistente virtual pode aprimorar suas habilidades de comunicação e transformar ideias abstratas em narrativas convincentes.
+
+Mas a magia dos LLMs não para por aí. Eles podem ser seus tutores pessoais, explicando conceitos complexos com clareza cristalina e ajudando você a dominar novas habilidades com eficiência. Quer aprender a programar, estudar uma nova língua ou se aprofundar em filosofia? Seu assistente de IA estará lá para orientá-lo passo a passo, fornecendo feedback construtivo e adaptando seu estilo de ensino às suas necessidades únicas.
+
+E a melhor parte? Tudo isso está ao alcance de alguns cliques ou comandos de voz. Esses assistentes virtuais estão constantemente aprendendo e evoluindo, tornando-se mais inteligentes e intuitivos a cada interação. Eles são verdadeiros companheiros para a jornada do conhecimento, prontos para explorar novos territórios intelectuais ao seu lado.
+
+Então, junte-se à revolução dos LLMs e desfrute de uma nova era de produtividade, criatividade e aprendizado sem limites. Abrace o futuro e deixe esses assistentes de IA elevarem seu potencial a níveis inimagináveis. O mundo está à sua espera – tudo o que você precisa fazer é pedir ajuda ao seu novo melhor amigo virtual.
 
 ## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
-```
-
-### Exemplos e Insigths
-
-- [E-BOOK](/exemplos/E-BOOK.md)
-- [Podcast](/exemplos/PODCAST.md)
-- [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
-
-## Links Interessantes
-
-[Base10: If You’re Not First, You’re Last: How AI Becomes Mission Critical](https://base10.vc/post/generative-ai-mission-critical/)
-
-![Base10's Trend Map Generative AI](https://github.com/digitalinnovationone/lab-natty-or-not/assets/730492/f4df26e8-f8f7-4419-8252-c69d73ea930c)
+É um bom desafio. Já havia criado algo antes desse desafio em questão. É sempre impressionante quando testo algum novo LLM. Sempre supera minhas expectativas.
