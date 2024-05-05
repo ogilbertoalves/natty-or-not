@@ -4,7 +4,9 @@
 O desafio foi criar um artigo sobre Inteligência Artificial, utilizando IAs para parecerem o mais natural possível.
 
 ## 🤖 Tecnologias Utilizadas
-Foi Utilizado o Claude 3 Sonnet para criação do artigo, ChatGPT para criação do prompt da imagem e o Copilot com DALL-E para criação da imagem.
+Foi utilizado o Claude 3 Sonnet para criação do artigo, ChatGPT para criação do prompt da imagem e o Copilot com DALL-E para criação da imagem.
+Foi utilizado também, o elevenlabs para criar o áudio do artigo. Não foi possível upar aqui no github.
+
 ## 🧐 Processo de Criação
 ### Prompt para criação do Artigo
 Você é um famoso copywriter com mais de 30 anos de experiência. Descreva em formato de artigo persuasivo e criativo, qual o básico um leigo deveria aprender para conseguir utilizar as LLMs em seu dia-a-dia para corroborar com suas tarefas cotidianas.
